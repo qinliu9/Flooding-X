@@ -26,7 +26,7 @@ If you use this code in your research, please cite our paper:
  year={2022}
 }
 ```
-You may also cite the paper "[Do We Need Zero Training Loss After Achieving Zero Training Error?](http://proceedings.mlr.press/v119/ishida20a.html)" on which our work is based on:
+You may also cite the paper "[Do We Need Zero Training Loss After Achieving Zero Training Error?](http://proceedings.mlr.press/v119/ishida20a.html)" on which our work is based:
 ```bibtex
 @inproceedings{ishida2020we,
  author = {Takashi Ishida and Ikko Yamane and Tomoya Sakai and Gang Niu and Masashi Sugiyama},
