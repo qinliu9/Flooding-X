@@ -6,7 +6,7 @@ export TRANSFORMERS_OFFLINE=1
 log_file="finetune_agnews_0926.log"
 valid="test"
 
-python /home/qliu/grad_align/run_glue.py \
+python run_glue.py \
     --dataset_name ag_news \
     --valid $valid \
     --bsz 16 \
