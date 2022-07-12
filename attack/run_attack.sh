@@ -8,7 +8,7 @@ log_file='../results/'$model_name'.log'
 log_dir='../results/'$model_name'.csv'
 
 
-for epoch in 8 7 9 6 5 4 3 2 1 0
+for epoch in 9 8
 
 do
   #echo "freelb_stifiness_adv_${adv} epoch_${total} mag_${mag}: epoch ${epoch}" | tee -a $log_file
