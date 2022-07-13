@@ -1,6 +1,6 @@
 # Flooding-X
 
-Code for the paper "[Flooding-X: Improving BERT's Resistance to Adversarial Attacks via Loss-Restricted Fine-Tuning](https://aclanthology.org/2022.acl-long.386.pdf)".
+Code for the ACL 2022 paper [Flooding-X: Improving BERT's Resistance to Adversarial Attacks via Loss-Restricted Fine-Tuning](https://aclanthology.org/2022.acl-long.386.pdf).
 
 ## Requirement
 Our code is built on [huggingface/transformers](https://github.com/huggingface/transformers). The detailed requirements are listed in `requirements.txt`.
