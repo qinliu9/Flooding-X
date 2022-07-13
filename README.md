@@ -19,7 +19,16 @@ If you use this code in your research, please cite our paper:
 ```bibtex
 @inproceedings{liu2022flooding,
  title={Flooding-X: Improving BERT’s Resistance to Adversarial Attacks via Loss-Restricted Fine-Tuning},
- author={Liu, Qin and Zheng, Rui and Rong, Bao and Liu, Jingyi and Liu, Zhihua and Cheng, Zhanzhan and Qiao, Liang and Gui, Tao and Zhang, Qi and Huang, Xuan-Jing},
+ author={Liu, Qin and 
+  Zheng, Rui and 
+  Rong, Bao and 
+  Liu, Jingyi and 
+  Liu, Zhihua and 
+  Cheng, Zhanzhan and 
+  Qiao, Liang and 
+  Gui, Tao and 
+  Zhang, Qi and 
+  Huang, Xuan-Jing},
  booktitle={Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
  pages={5634--5644},
  url={https://aclanthology.org/2022.acl-long.386.pdf},
@@ -29,7 +38,11 @@ If you use this code in your research, please cite our paper:
 You may also cite the paper "[Do We Need Zero Training Loss After Achieving Zero Training Error?](http://proceedings.mlr.press/v119/ishida20a.html)" on which our work is based:
 ```bibtex
 @inproceedings{ishida2020we,
- author = {Takashi Ishida and Ikko Yamane and Tomoya Sakai and Gang Niu and Masashi Sugiyama},
+ author = {Takashi Ishida and 
+  Ikko Yamane and 
+  Tomoya Sakai and 
+  Gang Niu and 
+  Masashi Sugiyama},
  bibsource = {dblp computer science bibliography, https://dblp.org},
  biburl = {https://dblp.org/rec/conf/icml/IshidaYS0S20.bib},
  booktitle = {Proceedings of the 37th International Conference on Machine Learning, {ICML} 2020, 13-18 July 2020, Virtual Event},
